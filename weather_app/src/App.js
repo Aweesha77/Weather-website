@@ -30,9 +30,6 @@ function App() {
       })
       .catch(console.log);
 
-
-
-
   }
 
   return (
